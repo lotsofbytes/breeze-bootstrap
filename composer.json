@@ -4,14 +4,20 @@
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "git@github.com:lotsofbytes/inertia-laravel.git"
+        }
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "inertiajs/inertia-laravel": "^0.5.4",
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.6",
         "laravel/tinker": "^2.5",
+        "lotsofbytes/inertia-laravel": "dev-master",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
