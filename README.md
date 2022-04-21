@@ -1,4 +1,4 @@
-# Laravel Breeze + Inertia + Vuej 3 + Bootstreap 5
+# Laravel Breeze + Inertia + Vue 3 + Bootstreap 5
 
 This boiler plate is based on the Laravel Breeze starter kit but this replaces Tailwind CSS with Bootstrap 5.
 
