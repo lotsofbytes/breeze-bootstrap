@@ -20,7 +20,7 @@ $ php artisan serve
 ```
 ## Support a project placed in the sub directory
 
-Please use the branch, dev-support-subdir.
+Please use the branch, dev-subdir-fix.
 
 [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) (v0.5.4) has an sub directory installation [issue](https://github.com/inertiajs/inertia-laravel/issues/359). The branch has a fix by kimhf.
 
